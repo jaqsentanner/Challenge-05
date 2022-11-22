@@ -1,2 +1,1 @@
-# Challenge-05
-Work-Day Schedule Application
+# Work Day Scheduler Starter Code
