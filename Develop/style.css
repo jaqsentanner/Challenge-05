@@ -69,3 +69,30 @@ textarea{
   font-size: 20px;
   transition: all .3s ease-in-out;
 }
+
+.container {
+  
+}
+
+.testCont {
+  height: 100px;
+  display:flex;
+  padding:5px;
+  border: 2px solid black;
+  background-color:#d3d3d3;
+}
+
+.leftBox {
+  border-right: 1px solid black;
+}
+
+.rightBox {
+  border-left: 1px solid black;
+}
+
+img {
+  height:100px;
+  width: 100px;
+  border-radius:5px;
+}
+
