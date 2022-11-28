@@ -63,6 +63,8 @@ textarea{
   border-bottom-right-radius: 15px;
   background-color: #06AED5;
   color: white;
+  width:99%;
+  padding-left:4px;
 }
 
 .saveBtn i:hover {
@@ -84,6 +86,7 @@ textarea{
 
 .leftBox {
   border-right: 1px solid black;
+  font-weight:600;
 }
 
 .rightBox {
@@ -96,3 +99,11 @@ img {
   border-radius:5px;
 }
 
+.contEdit {
+  padding-top: 10px;
+  white-space: pre-wrap;
+}
+
+#currentDay {
+  text-align:center;
+}
